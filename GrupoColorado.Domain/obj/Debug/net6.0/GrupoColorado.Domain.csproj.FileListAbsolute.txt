@@ -22,3 +22,15 @@
 /Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/obj/Debug/net6.0/refint/GrupoColorado.Domain.dll
 /Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/obj/Debug/net6.0/GrupoColorado.Domain.pdb
 /Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/obj/Debug/net6.0/ref/GrupoColorado.Domain.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/bin/Debug/net6.0/GrupoColorado.Domain.deps.json
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/bin/Debug/net6.0/GrupoColorado.Domain.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/bin/Debug/net6.0/GrupoColorado.Domain.pdb
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/Debug/net6.0/GrupoColorado.Domain.csproj.AssemblyReference.cache
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/Debug/net6.0/GrupoColorado.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/Debug/net6.0/GrupoColorado.Domain.AssemblyInfoInputs.cache
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/Debug/net6.0/GrupoColorado.Domain.AssemblyInfo.cs
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/Debug/net6.0/GrupoColorado.Domain.csproj.CoreCompileInputs.cache
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/Debug/net6.0/GrupoColorado.Domain.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/Debug/net6.0/refint/GrupoColorado.Domain.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/Debug/net6.0/GrupoColorado.Domain.pdb
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/Debug/net6.0/ref/GrupoColorado.Domain.dll

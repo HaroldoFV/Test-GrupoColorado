@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCEN3eevcsDiKcFsJqnYuLEXXNCvOoJ0l4YZ39ZTJ12lu2oCsrD47hU5aGX8qwIZW4/4+CoXDshoMwQnNTSiiw==",
+  "dgSpecHash": "zYwSTNMJUN72FZ2b59/Uk3RIVeHqJ/uACFgl8qbMggKy1u8qir17hjRzvbFVSBeWkcPv8l/HgUhlNBVnXlbaXA==",
   "success": true,
-  "projectFilePath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.UI.Web/GrupoColorado.UI.Web.csproj",
+  "projectFilePath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.UI.Web/GrupoColorado.UI.Web.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {

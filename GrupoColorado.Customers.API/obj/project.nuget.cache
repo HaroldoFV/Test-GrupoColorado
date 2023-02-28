@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iD13xffLl0U+Yw32/XcisrE+WTEXFKzoEuwCsn/g9fnFNBOrxoMR61waZHUpcbApzoDsYrGroyzlEVWCM3ZNaw==",
+  "dgSpecHash": "BzL2++1WydxzcC4pM/kLcb2f6++x1K1r7JA8vY0Zam/3WDJlzJZFMig+0Cvl4xQ6SXtt86NbrPNbPFB1yMsAtg==",
   "success": true,
-  "projectFilePath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj",
+  "projectFilePath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj",
   "expectedPackageFiles": [
     "/Users/haroldovinente/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/haroldovinente/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

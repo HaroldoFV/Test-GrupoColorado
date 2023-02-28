@@ -28,3 +28,18 @@
 /Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/obj/Debug/net6.0/refint/GrupoColorado.Application.dll
 /Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/obj/Debug/net6.0/GrupoColorado.Application.pdb
 /Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/obj/Debug/net6.0/ref/GrupoColorado.Application.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/bin/Debug/net6.0/GrupoColorado.Application.deps.json
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/bin/Debug/net6.0/GrupoColorado.Application.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/bin/Debug/net6.0/GrupoColorado.Application.pdb
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/bin/Debug/net6.0/GrupoColorado.Domain.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/bin/Debug/net6.0/GrupoColorado.Domain.pdb
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/Debug/net6.0/GrupoColorado.Application.csproj.AssemblyReference.cache
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/Debug/net6.0/GrupoColorado.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/Debug/net6.0/GrupoColorado.Application.AssemblyInfoInputs.cache
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/Debug/net6.0/GrupoColorado.Application.AssemblyInfo.cs
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/Debug/net6.0/GrupoColorado.Application.csproj.CoreCompileInputs.cache
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/Debug/net6.0/GrupoColorado.Application.csproj.CopyComplete
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/Debug/net6.0/GrupoColorado.Application.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/Debug/net6.0/refint/GrupoColorado.Application.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/Debug/net6.0/GrupoColorado.Application.pdb
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/Debug/net6.0/ref/GrupoColorado.Application.dll

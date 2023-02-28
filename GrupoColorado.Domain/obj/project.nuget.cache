@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJkrq47QDQyI+Hdy0V5JSeOkckp2wL2d6iLfVoYRlgdIjWZNbYZOvxxps2BpoE3S3oSLENWF/CyexfTpdeYMDw==",
+  "dgSpecHash": "qvgZCLAX0puwBHfUsUuSQHxIH7sisyINJF4N+ywllW3CxvEPAEGQdu4tbQpihFY5JU+9WSBIwsmQSvDEOC5V6A==",
   "success": true,
-  "projectFilePath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj",
+  "projectFilePath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/haroldovinente/.nuget/packages/fluentvalidation/11.2.1/fluentvalidation.11.2.1.nupkg.sha512",
     "/Users/haroldovinente/.nuget/packages/fluentvalidation.aspnetcore/11.2.2/fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",

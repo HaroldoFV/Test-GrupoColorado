@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GrupoColorado.Infra.Data
-build_property.ProjectDir = /Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/
+build_property.ProjectDir = /Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/

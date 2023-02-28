@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.UI.Web/GrupoColorado.UI.Web.csproj",
+      "projectUniqueName": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.UI.Web/GrupoColorado.UI.Web.csproj",
       "projectName": "GrupoColorado.UI.Web",
-      "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.UI.Web/GrupoColorado.UI.Web.csproj",
+      "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.UI.Web/GrupoColorado.UI.Web.csproj",
       "packagesPath": "/Users/haroldovinente/.nuget/packages/",
-      "outputPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.UI.Web/obj/",
+      "outputPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.UI.Web/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

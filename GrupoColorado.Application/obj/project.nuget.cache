@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AyyU1mAWCaxt5WnFzU0Vur9JH814nKgzTMIe3YloJ/NpAHjRmuwH2px3C82vAlABunPfyZi9gxiLdePdd8+kbw==",
+  "dgSpecHash": "vHDFOqmW3z1Ayhi/C8JvAyaEoWiAK2/F22yPyhviWJU4xYk7+3Ce/Ff8H3recQrnJ8EBoDfQI87a62gVezeYwA==",
   "success": true,
-  "projectFilePath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/GrupoColorado.Application.csproj",
+  "projectFilePath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/GrupoColorado.Application.csproj",
   "expectedPackageFiles": [
     "/Users/haroldovinente/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/haroldovinente/.nuget/packages/fluentvalidation/11.2.1/fluentvalidation.11.2.1.nupkg.sha512",

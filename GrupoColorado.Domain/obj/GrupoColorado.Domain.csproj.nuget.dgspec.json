@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj": {}
+    "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj": {}
   },
   "projects": {
-    "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj": {
+    "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj",
+        "projectUniqueName": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj",
         "projectName": "GrupoColorado.Domain",
-        "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj",
+        "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj",
         "packagesPath": "/Users/haroldovinente/.nuget/packages/",
-        "outputPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/obj/",
+        "outputPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

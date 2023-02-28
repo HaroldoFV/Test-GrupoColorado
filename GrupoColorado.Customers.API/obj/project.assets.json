@@ -1372,11 +1372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj",
+      "projectUniqueName": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj",
       "projectName": "GrupoColorado.Customers.API",
-      "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj",
+      "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj",
       "packagesPath": "/Users/haroldovinente/.nuget/packages/",
-      "outputPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Customers.API/obj/",
+      "outputPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Customers.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -1395,11 +1395,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/GrupoColorado.Application.csproj": {
-              "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/GrupoColorado.Application.csproj"
+            "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/GrupoColorado.Application.csproj": {
+              "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/GrupoColorado.Application.csproj"
             },
-            "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj": {
-              "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj"
+            "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj": {
+              "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj"
             }
           }
         }

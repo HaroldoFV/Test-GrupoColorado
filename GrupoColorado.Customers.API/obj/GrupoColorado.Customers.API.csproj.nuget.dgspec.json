@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj": {}
+    "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj": {}
   },
   "projects": {
-    "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/GrupoColorado.Application.csproj": {
+    "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/GrupoColorado.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/GrupoColorado.Application.csproj",
+        "projectUniqueName": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/GrupoColorado.Application.csproj",
         "projectName": "GrupoColorado.Application",
-        "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/GrupoColorado.Application.csproj",
+        "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/GrupoColorado.Application.csproj",
         "packagesPath": "/Users/haroldovinente/.nuget/packages/",
-        "outputPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/obj/",
+        "outputPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -30,8 +30,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj": {
-                "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj"
+              "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj": {
+                "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj": {
+    "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj",
+        "projectUniqueName": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj",
         "projectName": "GrupoColorado.Customers.API",
-        "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj",
+        "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Customers.API/GrupoColorado.Customers.API.csproj",
         "packagesPath": "/Users/haroldovinente/.nuget/packages/",
-        "outputPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Customers.API/obj/",
+        "outputPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Customers.API/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -97,11 +97,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/GrupoColorado.Application.csproj": {
-                "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Application/GrupoColorado.Application.csproj"
+              "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/GrupoColorado.Application.csproj": {
+                "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Application/GrupoColorado.Application.csproj"
               },
-              "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj": {
-                "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj"
+              "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj": {
+                "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj"
               }
             }
           }
@@ -164,14 +164,14 @@
         }
       }
     },
-    "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj": {
+    "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj",
+        "projectUniqueName": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj",
         "projectName": "GrupoColorado.Domain",
-        "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj",
+        "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj",
         "packagesPath": "/Users/haroldovinente/.nuget/packages/",
-        "outputPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/obj/",
+        "outputPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -227,14 +227,14 @@
         }
       }
     },
-    "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj": {
+    "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj",
+        "projectUniqueName": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj",
         "projectName": "GrupoColorado.Infra.Data",
-        "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj",
+        "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/GrupoColorado.Infra.Data.csproj",
         "packagesPath": "/Users/haroldovinente/.nuget/packages/",
-        "outputPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/obj/",
+        "outputPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -253,8 +253,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj": {
-                "projectPath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Domain/GrupoColorado.Domain.csproj"
+              "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj": {
+                "projectPath": "/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Domain/GrupoColorado.Domain.csproj"
               }
             }
           }

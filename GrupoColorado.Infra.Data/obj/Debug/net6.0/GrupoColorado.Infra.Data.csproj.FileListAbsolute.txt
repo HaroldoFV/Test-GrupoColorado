@@ -28,3 +28,18 @@
 /Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/obj/Debug/net6.0/refint/GrupoColorado.Infra.Data.dll
 /Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/obj/Debug/net6.0/GrupoColorado.Infra.Data.pdb
 /Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado-valid/GrupoColorado.Infra.Data/obj/Debug/net6.0/ref/GrupoColorado.Infra.Data.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/bin/Debug/net6.0/GrupoColorado.Infra.Data.deps.json
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/bin/Debug/net6.0/GrupoColorado.Infra.Data.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/bin/Debug/net6.0/GrupoColorado.Infra.Data.pdb
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/bin/Debug/net6.0/GrupoColorado.Domain.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/bin/Debug/net6.0/GrupoColorado.Domain.pdb
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/Debug/net6.0/GrupoColorado.Infra.Data.csproj.AssemblyReference.cache
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/Debug/net6.0/GrupoColorado.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/Debug/net6.0/GrupoColorado.Infra.Data.AssemblyInfoInputs.cache
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/Debug/net6.0/GrupoColorado.Infra.Data.AssemblyInfo.cs
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/Debug/net6.0/GrupoColorado.Infra.Data.csproj.CoreCompileInputs.cache
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/Debug/net6.0/GrupoColorado.Infra.Data.csproj.CopyComplete
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/Debug/net6.0/GrupoColorado.Infra.Data.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/Debug/net6.0/refint/GrupoColorado.Infra.Data.dll
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/Debug/net6.0/GrupoColorado.Infra.Data.pdb
+/Users/haroldovinente/Projects/trampo/back/tests/Test-GrupoColorado/GrupoColorado.Infra.Data/obj/Debug/net6.0/ref/GrupoColorado.Infra.Data.dll
