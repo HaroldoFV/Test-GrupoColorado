@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8aRx51hKV5jEn3qUUDipk2EhvhCojaKy+rjOX016FWuOdVREap/DYrKUcrkoejE/A9rOv7XG/y4kp1u6VLemCg==",
+  "success": true,
+  "projectFilePath": "/Users/haroldovinente/Projects/back-end/interviews/Grupo Colorado/GrupoColorado/GrupoColorado/GrupoColorado.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.141.0.117:8888/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
